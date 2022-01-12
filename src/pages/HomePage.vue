@@ -77,7 +77,7 @@
                 </div>
                 <div v-else class="border-2 border-secondary py-6 px-12 text-center rounded-lg inline-block">
                     <h3 class="text-2xl font-bold text-white">Search by Github username.</h3>
-                    <p class="text-gray-400">Please try entering a valid Github username and press search.</p>
+                    <p class="text-gray-400">Begin your search by entering a valid Github username and press search.</p>
                 </div>
             </div>
         </div>
